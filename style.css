@@ -3,3 +3,10 @@
 body{
 font-family: 'Poppins', sans-serif;
 }
+.moni-con-txt{
+    color:#0A0826;
+}
+.moni-con-bgd{
+    background-color: blue;
+    color: white;
+}
