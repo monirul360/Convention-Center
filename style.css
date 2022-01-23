@@ -6,7 +6,9 @@ font-family: 'Poppins', sans-serif;
 .moni-con-txt{
     color:#0A0826;
 }
-.moni-con-bgd{
-    background-color: blue;
-    color: white;
+
+.moni-member-button button{
+    width: 45%;
+    display: inline-block;
+    margin:5px;
 }
